@@ -8,3 +8,7 @@
 [submodule "vesco"]
 	path = vesco
 	url = git@github.com:rocketgithub/vesco.git
+[submodule "fel_megaprint"]
+	path = fel_megaprint
+	url = git@github.com:rocketgithub/fel_megaprint.git
+	branch = 13.0
