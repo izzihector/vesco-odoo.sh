@@ -12,3 +12,7 @@
 	path = fel_megaprint
 	url = git@github.com:rocketgithub/fel_megaprint.git
 	branch = 13.0
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 13.0
